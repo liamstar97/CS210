@@ -1,3 +1,5 @@
 # ignore .idea
 .idea/
 
+# ignore "out" directory
+out/
